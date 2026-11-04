@@ -16,7 +16,7 @@ The decision happens in the SDK, where the span is born, not in the Collector af
 
 | | |
 |---|---|
-| [poc](https://github.com/OTelFeature/poc) | The demo from the talk: two services, flagd, a Collector and a dashboard. Runs with only Docker (plus a GHCR login until the images are public). |
+| [poc](https://github.com/OTelFeature/poc) | The demo from the talk: two services, flagd, a Collector and a dashboard. Runs with only Docker. |
 | [otelfeature-instrument](https://github.com/OTelFeature/otelfeature-instrument) | Python: a drop-in for `opentelemetry-instrument` with flag-controlled spans. |
 | [otelfeature-java-extension](https://github.com/OTelFeature/otelfeature-java-extension) | Java: an extension for the OpenTelemetry Java agent. |
 
