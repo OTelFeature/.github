@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OTelFeature/.github/main/logo/logo-white.svg">
+  <img alt="OTelFeature" src="https://raw.githubusercontent.com/OTelFeature/.github/main/logo/logo-black.svg" height="64">
+</picture>
+
 ## Feature flags for your telemetry
 
 **OTelFeature** controls OpenTelemetry instrumentation at runtime with [OpenFeature](https://openfeature.dev) flags. Turn tracing down while a service is healthy and back up when an incident starts, without a restart or a redeploy.
