@@ -7,7 +7,7 @@
 
 **OTelFeature** controls OpenTelemetry instrumentation at runtime with [OpenFeature](https://openfeature.dev) flags. Turn tracing down while a service is healthy and back up when an incident starts, without a restart or a redeploy.
 
-It started as the KubeCon + CloudNativeCon North America 2026 talk **[OpenFeature as a Control Plane for OpenTelemetry](https://otelfeature.github.io/presentation/)** by Simon Schrottner and Juliano Costa.
+It started as the KubeCon + CloudNativeCon North America 2026 talk **[OpenFeature as a Control Plane for OpenTelemetry](https://otelfeature.dev/)** by Simon Schrottner and Juliano Costa.
 
 ### What the flags do
 
